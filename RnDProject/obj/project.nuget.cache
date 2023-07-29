@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7/21Sh7bLVFUshlWOIGAnCLatuKskva5t84Tj9tSFzb1p2QJbhgx3J3U12dmfg17Epe2Y09P+lFfsZP1TWtSjg==",
+  "dgSpecHash": "iqxO5CXHnbMfCuCacM0DIi1bWlzXUYcLPUhbfEEFfhbIK5gZcazrt+DfOQpsNlzifqko9HGdTPqHKjgfOGn+3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Downloads\\PendarProject\\coba-coba\\RnDProject\\RnDProject\\RnDProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -93,16 +93,17 @@
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(127, 445);
+            label4.Location = new Point(59, 445);
             label4.Name = "label4";
             label4.Size = new Size(189, 20);
             label4.TabIndex = 6;
             label4.Text = "Response Login Show Here";
+            label4.Click += label4_Click;
             // 
             // lbUserData
             // 
             lbUserData.AutoSize = true;
-            lbUserData.Location = new Point(127, 479);
+            lbUserData.Location = new Point(59, 478);
             lbUserData.Name = "lbUserData";
             lbUserData.Size = new Size(0, 20);
             lbUserData.TabIndex = 7;
@@ -111,6 +112,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            AutoScroll = true;
             BackColor = Color.White;
             Controls.Add(lbUserData);
             Controls.Add(label4);
